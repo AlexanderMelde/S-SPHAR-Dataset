@@ -25,3 +25,20 @@ Looking for the non-synthetic SPHAR-Dataset? [Click here](https://github.com/Ale
 |               1 |      260 |  9  (HMDB) |           8 - 92 |         40 MB |             02:36 min |              860 MB | 2020 |
 |               2 |      696 | 10 (SPHAR) |          3 - 236 |        168 MB |             09:04 min |             4.01 GB | 2020 |
 |               3 |     6901 | 10 (SPHAR) |        42 - 2328 |       1.03 GB |             48:22 min |             12.9 GB | 2020 |
+
+## Original Videos
+Due to their size, the original videos were not uploaded to GitHub. Instead, they can be found at YouTube under the following links. Read their descriptions for more information:
+
+- [S-SPHAR-3](https://youtu.be/ybFYFRJoQho)
+- [S-SPHAR-2](https://youtu.be/3x8ga83Cm1k)
+- [S-SPHAR-1](https://youtu.be/64NR86A3tGU)
+
+[![preview image of S-SPHAR videos](https://img.youtube.com/vi/ybFYFRJoQho/mqdefault.jpg)](https://youtu.be/ybFYFRJoQho)
+
+Those Videos are combinations of the following video views:
+- Original camera image
+- Segmentation masks for labeled action classes
+- Overlay of segmentation masks over original camera image
+- Bounding boxes around action instance tubes
+
+The videos are all 4K resolution, so you can split it back into four FHD videos using simple tools like OpenCV or other video editors.
