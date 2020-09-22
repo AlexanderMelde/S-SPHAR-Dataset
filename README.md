@@ -9,7 +9,7 @@ In this domain, most cameras will share a similar mounting angle and perspective
 
 The videos have been generated using a self-made simulation built using the Unity game engine and characters and animations from Mixamo.
 
-This Repository contains all videos of the **S-SPHAR** dataset as well as the scripts needed to create the dataset.
+This Repository contains all videos of the **S-SPHAR** dataset.
 
 -----------
 
