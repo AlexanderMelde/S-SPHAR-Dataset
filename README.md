@@ -1,4 +1,4 @@
-![S-SPHAR Synthetic Surveillance Perspective Human Action Recognition Logo](docs/S-SPHAR.svg)
+[![S-SPHAR Synthetic Surveillance Perspective Human Action Recognition Logo](docs/S-SPHAR.svg)](https://alexandermelde.github.io/S-SPHAR-Dataset/)
 
 # **S-SPHAR**: **S**ynthetic **S**urveillance **P**erspective **H**uman **A**ction **R**ecognition **D**ataset
 
