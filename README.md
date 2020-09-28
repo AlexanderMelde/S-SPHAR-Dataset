@@ -67,13 +67,13 @@ If you want to cite and reference the **S-SPHAR Dataset**, please link to this G
 
 ```bib
 @article{s-sphar-dataset,
-  title={S-SPHAR: Surveillance Perspective Human Action Recognition Dataset},
+  title={S-SPHAR: Synthetic Surveillance Perspective Human Action Recognition Dataset},
   author={Alexander Melde},
   year={2020},
   publisher = {GitHub},
   journal = {GitHub repository},
   url = {https://github.com/AlexanderMelde/S-SPHAR-Dataset},
-  version = {\UrlFont\href{https://github.com/AlexanderMelde/S-SPHAR-Dataset/commit/4e5a493}{4e5a493}},
+  version = {\UrlFont\href{https://github.com/AlexanderMelde/S-SPHAR-Dataset/commit/a6131c7}{a6131c7}},
   urldate={2020-09-29}
 }
 ```
