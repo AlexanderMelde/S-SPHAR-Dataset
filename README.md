@@ -42,3 +42,39 @@ Those Videos are combinations of the following video views:
 - Bounding boxes around action instance tubes
 
 The videos are all 4K resolution, so you can split it back into four FHD videos using simple tools like OpenCV or other video editors.
+
+
+## Download
+The easiest way to just get the cropped dataset videos is by downloading one of our [releases](https://github.com/AlexanderMelde/S-SPHAR-Dataset/releases):
+
+- [**S-SPHAR-Dataset-R1.0.zip**](https://github.com/AlexanderMelde/S-SPHAR-Dataset/archive/R1.0.zip)
+
+You can also clone or fork this repository using:
+
+```
+git clone git@github.com:AlexanderMelde/S-SPHAR-Dataset.git
+```
+
+If you want to download the original videos, use the links above and a YouTube downloader like [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+
+## License
+The **S-SPHAR Dataset** is released under the **GNU GPL v3** license (contact me for further licensing options).
+
+See the [LICENSE](LICENSE) file for more details.
+
+## Citation
+If you want to cite and reference the **S-SPHAR Dataset**, please link to this GitHub page. You can use the following BibTex entry:
+
+```bib
+@article{s-sphar-dataset,
+  title={S-SPHAR: Surveillance Perspective Human Action Recognition Dataset},
+  author={Alexander Melde},
+  year={2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  url = {https://github.com/AlexanderMelde/S-SPHAR-Dataset},
+  version = {\UrlFont\href{https://github.com/AlexanderMelde/S-SPHAR-Dataset/commit/4e5a493}{4e5a493}},
+  urldate={2020-09-29}
+}
+```
+(replace urldate with your own day of retrieval)
